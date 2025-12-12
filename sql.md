@@ -16,7 +16,7 @@ Tu apprendras à :
 *(Débutant — 20 à 30 min)*  
 → **Objectif : savoir extraire les bonnes informations d'une table.**
 
-👉 *Le lien GitHub Classroom apparaîtra ici quand la mission sera prête.*
+👉 👉 [Accéder à la Mission 1 sur GitHub Classroom](https://classroom.github.com/a/8tss4Y4e)
 
 ---
 
