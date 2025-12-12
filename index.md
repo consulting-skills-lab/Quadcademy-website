@@ -20,7 +20,7 @@ Ici, tu trouveras :
 
 ### 🎯 Parcours SQL
 
-- Mission 1 — Premiers SELECT & WHERE  
+- Mission 1 — Premiers SELECT & WHERE [➡ Accéder au parcours SQL](sql.md) 
 - Mission 2 — Filtrer, trier et agréger les données  
 - Mission 3 — Joins (INNER, LEFT, RIGHT)  
 - Mission 4 — Sous-requêtes & CTE  
